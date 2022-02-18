@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hola 👋
 
-<!--
-**g-rossler/g-rossler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Gerardo Rossler, vivo en Argentina y soy un desarrollador Front End. ✨✨✨
 
-Here are some ideas to get you started:
+## Tecnologias y Heramientas que uso:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- React
+- Bootstrap
+- CSS
+- HTML
+- NPM
+- Cypress
+- Jest
+- jQuery
+
+
+## Algunos de mis proyectos:
+
+- <a href="https://github.com/g-rossler/Memotest">Memotest</a>
+
+- <a href="https://github.com/g-rossler/Pokedex">Pokedex</a>
+
+- <a href="https://github.com/g-rossler/Exchange-Rate-Market">Exchange Rate Market</a>
+
+## Contacto
+
+- Email: rossler.gerardo.dev@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gerardo-rossler/
