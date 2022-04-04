@@ -1,6 +1,6 @@
 # Hola 👋
 
-Me llamo Gerardo Rossler, vivo en Argentina y soy un desarrollador Front End. ✨✨✨
+Me llamo Gerardo Rossler, vivo en Argentina y soy un desarrollador Front End. 
 
 ## Tecnologias y Heramientas que uso:
 
