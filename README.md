@@ -1,8 +1,8 @@
-# Hola 👋
+# Hi 👋
 
-Me llamo Gerardo Rossler, vivo en Argentina y soy un desarrollador Front End. 
+I'am Gerardo Rossler, I live in Argentina and I am a front end developer. 
 
-## Tecnologias y Heramientas que uso:
+## Some of the tools and languages I work with:
 
 - JavaScript
 - React
@@ -13,17 +13,14 @@ Me llamo Gerardo Rossler, vivo en Argentina y soy un desarrollador Front End.
 - Cypress
 - Jest
 - jQuery
+- API REST
+- Chakra UI
+- Stellar Blockchain
+- React Testing Libraries
+- Node.Js
+- TypeScript
 
-
-## Algunos de mis proyectos:
-
-- <a href="https://github.com/g-rossler/Memotest">Memotest</a>
-
-- <a href="https://github.com/g-rossler/Pokedex">Pokedex</a>
-
-- <a href="https://github.com/g-rossler/Exchange-Rate-Market">Exchange Rate Market</a>
-
-## Contacto
+## You can contact me to:
 
 - Email: rossler.gerardo.dev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gerardo-rossler/
