@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'am Gerardo Rossler, I live in Argentina and I am a front end developer. 
+I'am Gerardo Rossler, I live in Argentina and I am a Full Stack Developer. 
 
 ## Some of the tools and languages I work with:
 
@@ -20,7 +20,7 @@ I'am Gerardo Rossler, I live in Argentina and I am a front end developer.
 - Node.Js
 - TypeScript
 
-## You can contact me to:
+## If you require any further information, feel free to contact me:
 
 - Email: rossler.gerardo.dev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gerardo-rossler/
