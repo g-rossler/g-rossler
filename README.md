@@ -1,7 +1,7 @@
 # Hi 👋
 
 I'am Gerardo Rossler, I live in Argentina and I am a Full Stack Developer. 
-As a dedicated Full Stack Developer with two years of experience, I specialize in JavaScript, TypeScript, Node.js, Nest.js, React, React Native, and AWS. My professional journey has equipped me with a strong foundation in both backend and frontend development.
+As a dedicated Full Stack Developer, I specialize in JavaScript, TypeScript, Node.js, Nest.js, React, React Native, and AWS. My professional journey has equipped me with a strong foundation in both backend and frontend development.
 
 In my recent role, I played a crucial part in developing a fintech application, where I was responsible for system setup, deployment, and frontend and backend development. This role allowed me to refine my skills in designing and implementing efficient, scalable, and user-centric solutions.
 
